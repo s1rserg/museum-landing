@@ -1,4 +1,30 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Museum Landing Page
+
+This is a simple and clean landing page design built with modern web technologies.
+
+## Live Demo:
+Check out the live demo of the landing page on [GitHub Pages](https://s1rserg.github.io/Museum/).
+
+## Mockup:
+View the design mockup for the landing page [here](https://www.figma.com/file/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3-(Edit)?node-id=0%3A1).
+
+## Technologies Used:
+- HTML
+- CSS
+- Flexbox
+- CSS Grid
+- CSS Transformations
+- SCSS (Sass)
+- Mixins
+- BEM (Block, Element, Modifier) methodology for naming conventions
+
+## Features:
+- Fully responsive design
+- Clean and minimal layout
+- Utilizes Flexbox and Grid for layout structuring
+- SCSS with mixins for reusable styles
+- BEM naming convention for scalable and maintainable code
+
+## Installation:
+Clone this repository, run `npm i` and `npm start` and the landing page will open in your browser.
+
